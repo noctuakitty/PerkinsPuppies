@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Kalam&display=swap');
+
+.App,
+.description,
+h2,
+.button {
+    font-family: 'Handlee', cursive;
+    text-align: center;
+}
+
+.jumbotron {
+    font-family: 'Kalam', cursive;
+    text-align: center;
+}
+
+ul {
+    font-family: 'Handlee', cursive;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.header-one {
+    font-weight: bold;
+}
